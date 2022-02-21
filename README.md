@@ -8,6 +8,7 @@ Abaixo encontramos o ambiente necessário para confecção do exemplo:
 
 - JDK 15 ou superior
 - IDE de sua preferência 
+- Maven
 
 
 ## Executar programa via terminal
