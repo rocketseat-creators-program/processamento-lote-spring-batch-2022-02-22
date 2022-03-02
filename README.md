@@ -3,6 +3,8 @@
 
 # Processamento em lote utilizando Spring Batch com Java
 
+Nessa aula vamos trazer um caso real de processamento em lote e um pouco do processo de escolha dessa tecnologia e suas principais funcionalidades e utilização, com um pequeno hands-on afim de disponibilizar um exemplo para usar no seus projetos profissionais e de estudos!
+
 ## Ambiente
 Abaixo encontramos o ambiente necessário para confecção do exemplo:
 
